@@ -15,11 +15,11 @@
 		<version>2.5.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.awgproductions</groupId>
+	<groupId>com.awgproductions.be</groupId>
 	<artifactId>rental-management-platform</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>rental-management-platform</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Rental Management Platform Project</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
